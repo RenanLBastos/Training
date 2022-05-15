@@ -1,0 +1,18 @@
+Comandos
+
+----------------------------
+Instalar Angular           
+npm install -g @angular/cli
+----------------------------
+----------------------------
+criar aplicação
+ng new my-app
+----------------------------
+comando bypass powerShell
+Set-ExecutionPolicy -ExecutionPolicy bypass
+
+----------------------------
+Executar Projeto Angular
+cd para pasta do projeto
+ng serve
+----------------------------
